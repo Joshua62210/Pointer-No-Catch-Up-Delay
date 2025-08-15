@@ -6,13 +6,13 @@ ________________________________________________________________________________
 
 **⚙️ How does it work ?**
 
-Windows peut introduire un petit retard entre ton mouvement réel et le déplacement du pointeur à l’écran à cause :
+Windows may introduce a slight delay between your actual movement and the movement of the pointer on the screen due to:
 
-Coalescence des mouvements : Windows peut fusionner des mouvements très rapprochés pour réduire le nombre d’événements livrés.
+Movement coalescing: Windows may merge movements that are very close together to reduce the number of events delivered.
 
-Files d’attente / cadence par frame : si l’application(Jeux vidéo) lit les entrées par IPS ou si la file d’événements est occupée, la livraison peut être légèrement décalée.
+Queues/frame rate: if the application (video games) reads inputs per IPS or if the event queue is busy, delivery may be slightly delayed.
 
-Rattrapage visuel : il arrive que le pointeur fasse de petits mouvements supplémentaires juste après, le temps que tout suive.
+Visual catch-up: sometimes the pointer makes small additional movements just after, while everything catches up.
 
 **✅ What the plugin does when you activate it ?**
 
