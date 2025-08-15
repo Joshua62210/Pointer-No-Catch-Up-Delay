@@ -28,6 +28,6 @@ ________________________________________________________________________________
 
 Go to the **[Releases](https://github.com/Joshua62210/Pointer-No-Catch-Up-Delay/releases)** page and download the **ZIP file**.
 
-Extract the **ZIP file** and extract it to “**C:\Users\%Users%\AppData\Local\OpenTabletDriver\Plugins**”.
+Extract the **ZIP file** and extract it to “**C:\Users\ %Users%\AppData\Local\OpenTabletDriver\Plugins**”.
 
 Open the **Open Tablet Driver** application, go to the **Filters** tab, and **enable the plugin**.
