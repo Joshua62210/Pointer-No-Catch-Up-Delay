@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+kkmpAOy8Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joshua Paque\\source\\repos\\Pointer No-Catch-Up-Delay\\Pointer No-Catch-Up-Delay\\Pointer No-Catch-Up-Delay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshua Paque\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Joshua Paque\\.nuget\\packages\\opentabletdriver.plugin\\0.6.5.1\\opentabletdriver.plugin.0.6.5.1.nupkg.sha512",
+    "C:\\Users\\Joshua Paque\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
