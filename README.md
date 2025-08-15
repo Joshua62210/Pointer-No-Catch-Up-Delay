@@ -26,4 +26,4 @@ ________________________________________________________________________________
 
 **📦 Installation**
 
-Rendez-vous sur la page Releases
+Rendez-vous sur la page [Releases](https://github.com/Joshua62210/Pointer-No-Catch-Up-Delay/releases)
