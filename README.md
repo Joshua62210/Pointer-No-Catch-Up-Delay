@@ -1,10 +1,10 @@
 **Pointer No-Catch-Up-Delay (OpenTabletDriver Plugin)**
 
-Plugin minimaliste pour OpenTabletDriver qui permet d'émettre chaque rapport du stylet immédiatement afin de réduire la latence au maximum.
+Plugin that allows each pen report to be sent immediately in order to reduce latency as much as possible.
 
 ___________________________________________________________________________________________________________________________________________
 
-**⚙️ Comment ça marche ?**
+**⚙️ How does it work ?**
 
 Windows peut introduire un petit retard entre ton mouvement réel et le déplacement du pointeur à l’écran à cause :
 
@@ -14,13 +14,13 @@ Files d’attente / cadence par frame : si l’application(Jeux vidéo) lit les 
 
 Rattrapage visuel : il arrive que le pointeur fasse de petits mouvements supplémentaires juste après, le temps que tout suive.
 
-**✅ Ce que fait le plugin quand vous l’activée ?**
+**✅ What the plugin does when you activate it ?**
 
-No Catch-Up : chaque rapport du stylet est émis immédiatement, sans attente d’éventuelles mises à jour tardives.
+No Catch-Up: each pen report is sent immediately, without waiting for any late updates.
 
-Zéro Coalescence des Mouvements : Pas de fusionnement ni n’avalement de rapports rapproché.
+Zero Movement Coalescence: No merging or swallowing of close reports.
 
-→ Résultat : la portion gérée par OpenTabletDriver n’ajoute plus de délai. Le décalage perceptible entre ton geste et le pointeur diminue fortement et la sensation de réactivité augmente nettement.
+→ Result: the portion managed by OpenTabletDriver no longer adds any delay. The noticeable lag between your gesture and the pointer is greatly reduced, and the feeling of responsiveness is significantly increased.
 
 ___________________________________________________________________________________________________________________________________________
 
