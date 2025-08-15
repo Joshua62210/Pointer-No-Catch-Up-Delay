@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 **⚙️ How does it work ?**
 
-Windows may introduce a slight delay between your actual movement and the movement of the pointer on the screen due to:
+Windows may introduce a slight delay between your actual movement and the movement of the pointer on the screen due to :
 
 Movement coalescing: Windows may merge movements that are very close together to reduce the number of events delivered.
 
