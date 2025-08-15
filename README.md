@@ -10,7 +10,7 @@ Windows may introduce a slight delay between your actual movement and the moveme
 
 Movement coalescing: Windows may merge movements that are very close together to reduce the number of events delivered.
 
-Queues/frame rate: if the application (video games) reads inputs per IPS or if the event queue is busy, delivery may be slightly delayed.
+Queues/frame rate: if the application (video games) reads inputs per FPS or if the event queue is busy, delivery may be slightly delayed.
 
 Visual catch-up: sometimes the pointer makes small additional movements just after, while everything catches up.
 
